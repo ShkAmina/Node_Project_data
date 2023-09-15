@@ -1,7 +1,7 @@
-const dummyData = require("../DummyData")
+const dataDummy = require("../dataDummy")
 
 const articale = (req, res) => {
-    res.send(dummyData)
+    res.send(dataDummy)
 }
 const specificArticale = (req, res) => {
     res.send("End of the result")

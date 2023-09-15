@@ -1,4 +1,4 @@
-const dummyData= [
+const dataDummy= [
     {
         id: 1,
         heading: "Janhvi Kapoor keeps it simple in blue lehenga, Bhumi Pednekar turns ‘golden queen’ at India Couture Week 2023",
@@ -836,4 +836,4 @@ const dummyData= [
     // category:"LatestStories",
     // },
 ]
-module.exports=dummyData
+module.exports=dataDummy
