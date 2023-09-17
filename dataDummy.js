@@ -828,12 +828,5 @@ const dataDummy= [
         description: "Security forces launched a massive search operation today to trace a group of terrorists who killed three Army personnel during an encounter a day earlier in Jammu and Kashmir's Kulgam district, officials said.",
         category: "LatestStories",
     },
-    // {
-    //   id:115,
-    //   heading:"New powers to Audi’s flagship",
-    //   image:"",
-    //   description:"",
-    // category:"LatestStories",
-    // },
 ]
 module.exports=dataDummy

@@ -9,12 +9,7 @@ app.use(cors({
 app.use("/api/news",route)
 // app.use("/product",product)
 app.listen(port,()=>{
-    try{
-        console.log(`server is running in port.${port}`)
-    }
-    catch(err){
-        console.log(`In starting a server we got.${err}`)
-    };
+  console.log(`Server is live in port.${port}`)
 
 })
 //http://localhost:5000/api/news/data
